@@ -48,3 +48,5 @@ Outputs: classification_report.csv, raw/normalized confusion matrices, and a PNG
 
 ## Weights (Hugging Face)
 Weights are hosted on the Hugging Face Hub and downloaded automatically by the scripts.
+Download Link
+https://huggingface.co/cyycn20000509/loscat-body-region-classifier/blob/main/best_12cls_vit.pt
